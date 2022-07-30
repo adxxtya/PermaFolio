@@ -10,7 +10,7 @@ const SocialMedia = () => (
     <div>
       <FaFacebookF />
     </div>
-    <div>
+    <div onClick="https://instagram.com/adxxtya">
       <BsInstagram />
     </div>
   </div>
